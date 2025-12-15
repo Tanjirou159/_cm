@@ -1,4 +1,4 @@
-# [HOMEWORK 1](https://github.com/dy546/_cm/blob/c67478f6e8bc109a78438de8afc32446945f2bec/homework/hw1.py)
+# [HOMEWORK 1](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/01.py)
 
 All copied from GEMINI without modification
 
@@ -112,7 +112,7 @@ The script tests these concepts using the cubic function $f(x) = x^3$ at the poi
 
 -----
 
-# [HOMEWORK 2](https://github.com/dy546/_cm/blob/c67478f6e8bc109a78438de8afc32446945f2bec/homework/hw2.py)
+# [HOMEWORK 2](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/02.py)
 
 # Quadratic Equation Solver in Python
 
@@ -215,7 +215,7 @@ print(root2(1, 1, 1))
 | `(1, 1, 1)` | Negative | Complex numbers (with `j`) |
 
 ---
-# [HOMEWORK 3](https://github.com/dy546/_cm/blob/c67478f6e8bc109a78438de8afc32446945f2bec/homework/hw3.py)
+# [HOMEWORK 3](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/03.py)
 
 All copied from GEMINI without modification
 
@@ -339,7 +339,7 @@ print(solve_cubic(1, -9, 26, -24))
 | **Restore** | $x = t - \frac{b}{3}$ | `t1 - b/3` |
 
 ---
-# [HOMEWORK 4](https://github.com/dy546/_cm/blob/c67478f6e8bc109a78438de8afc32446945f2bec/homework/hw4.py)
+# [HOMEWORK 4](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/04.py)
 
 All copied from GEMINI without modification
 
@@ -467,7 +467,7 @@ print(root(coeffs))
 | **Degree** | Solves for $N$ roots for degree $N$ |
 
 ---
-# [HOMEWORK 5](https://github.com/dy546/_cm/blob/c67478f6e8bc109a78438de8afc32446945f2bec/homework/hw5.py)
+# [HOMEWORK 5](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/05.py)
 
 All copied from GEMINI without modification
 
@@ -586,7 +586,7 @@ If calculating in $GF(7)$:
   * `1 / 3` $\rightarrow$ Inverse of 3 is 5 (because $3 \times 5 = 15 \equiv 1 \pmod 7$).
 
 ---
-# [HOMEWORK 6](https://github.com/dy546/_cm/blob/5963b7e95ce45df62ca20bb7f0d7486980e5fa9b/homework/geometry_toolkit.py)
+# [HOMEWORK 6](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/06.py)
 
 All copied from GEMINI without modification
 
@@ -713,7 +713,7 @@ $$ y' = o_y + (x - o_x)\sin\theta + (y - o_y)\cos\theta $$
 > **Note**: For these formulas to work with standard math libraries (like Python's `math` module), the angle $\theta$ must be in **radians**.
 
 ---
-# [HOMEWORK 8](https://github.com/dy546/_cm/blob/5963b7e95ce45df62ca20bb7f0d7486980e5fa9b/homework/information_theory_and_coding.py)
+# [HOMEWORK 8](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/08.py)
 
 All copied from GEMINI without modification
 
@@ -836,7 +836,7 @@ if syndrome_idx != 0:
     * This allows the code to self-repair single-bit errors.
 
 ---
-# [HOMEWORK 9](https://github.com/dy546/_cm/blob/5963b7e95ce45df62ca20bb7f0d7486980e5fa9b/homework/linear_algebra.py)
+# [HOMEWORK 9](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/09.py)
 
 All copied from GEMINI without modification
 
@@ -930,7 +930,7 @@ All copied from GEMINI without modification
     * A dimensionality reduction technique aimed at finding the directions with the largest data **variance**.
 * **Relationship:** When performing SVD on a data matrix, $V$ (the right singular vectors) represents the **principal component directions** of PCA, and $\Sigma$ (singular values) represents the magnitude of the variance.
 
-# [HOMEWORK 10](https://github.com/dy546/_cm/blob/0c20db85417a868cc636d921166218fa3ec08e8c/homework/hw10.py)
+# [HOMEWORK 10](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/10.py)
 
 All copied from GEMINI without modification
 
@@ -955,7 +955,7 @@ In Python, we use the complex type or the cmath module to handle the imaginary u
 > [!NOTE]
 > The $1/2\pi$ in your continuous formula is represented by the $1/N$ normalization factor in the discrete domain) 
 
-# [HOMEWORK 11](https://github.com/dy546/_cm/blob/0c20db85417a868cc636d921166218fa3ec08e8c/homework/hw11.py)
+# [HOMEWORK 11](https://github.com/Tanjirou159/_cm/blob/9458582dec0260adc9e79380e0f6470854fabed1/homework/10.py)
 
 All Copied From Gemini Without Modification
 
